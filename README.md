@@ -1,3 +1,6 @@
+Below is the Zoom data analysis project. 
+All images are from Zoom's uploaded photos from their facebook page.
+
 ![1](https://github.com/user-attachments/assets/15f7b4a6-890f-462b-b1f6-108cc5833040)
 ![2](https://github.com/user-attachments/assets/b0c7ed42-a0fc-4401-ae52-d7708c52b68e)
 ![3](https://github.com/user-attachments/assets/e848b23e-5f46-484f-8403-cfd9c1296e8d)
@@ -11,3 +14,8 @@
 ![11](https://github.com/user-attachments/assets/3c3b7e89-13d0-4f70-a68a-211fb5b66dec)
 ![12](https://github.com/user-attachments/assets/a2fa3d93-d5a9-483f-b6d6-ec52b94bbd22)
 ![13](https://github.com/user-attachments/assets/a9df0235-2f20-4486-bee3-5c3316f407e8)
+
+Sources:
+Zoom's Photos (n.d). Facebook. Retreived July 26, 2024, from https://www.facebook.com/zoom/photos_by
+Mcdonald, A. (2022, March 12). SQL and Excel: Why you need both. Use Excel to update, insert and delete data in SQL Server tables and views. https://sqlspreads.com/blog/sql-and-excel-why-you-need-both/ 
+OpenAI. (2024). ChatGPT (July 26 version) [Large language model]. https://chat.openai.com/chat
