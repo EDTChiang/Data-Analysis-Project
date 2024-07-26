@@ -1,2 +1,14 @@
-# Data-Analysis-Project
-This will based on a chatgpt generated dataset regarding zoom usage
+![1](https://github.com/user-attachments/assets/c4eb5e26-93b9-4db4-bce2-ca9402ec1198)
+![2](https://github.com/user-attachments/assets/55f46704-dc95-4c43-9475-74d7801d7bce)
+![3](https://github.com/user-attachments/assets/a869ab7b-91cb-4248-be88-56539232024c)
+![4](https://github.com/user-attachments/assets/798a9108-5d5d-4685-8812-a2fe4599c7a7)
+![4](https://github.com/user-attachments/assets/78fa29b0-b5f0-4160-91f9-122c7016d352)
+![5](https://github.com/user-attachments/assets/69ce4e15-8c48-44bf-82eb-91290cbeabf2)
+![6](https://github.com/user-attachments/assets/8dc9a975-d8d4-43a4-8cc2-3fcdc9e5e382)
+![7](https://github.com/user-attachments/assets/fe8971a0-9137-4009-8ec1-4b30d04aa90c)
+![8](https://github.com/user-attachments/assets/c137db31-39a5-4bc1-807d-35226ebf0893)
+![9](https://github.com/user-attachments/assets/1eb4dd19-db92-41cf-ae71-f5f8bf134f6c)
+![10](https://github.com/user-attachments/assets/fd5dd227-7a15-46f9-82dd-6c0660ee1fea)
+![11](https://github.com/user-attachments/assets/ee81ebc7-a1b4-49e5-8f20-d053398e995e)
+![12](https://github.com/user-attachments/assets/798817af-f305-44dd-ae66-1810b0294315)
+![13](https://github.com/user-attachments/assets/4ba6dcb0-67c0-4834-9b77-1ee1563a6a0c)
